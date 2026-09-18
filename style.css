@@ -1,5 +1,74 @@
+.body{
+    height: 100vh;
+}
+
+
 .secone{
     text-align: center;
-    margin-top: 4em;
-  
+    margin:0px;
+    padding: 10px;
+    background-color: rgba(86, 176, 255, 0.212);
+}
+
+.header{
+    background-color: rgb(230, 13, 13);
+    border-radius: 6px;
+    color: white;
+    padding: 4px;
+    text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+.h3{
+    background-color: rgba(248, 45, 180, 0.536);
+    padding: 6px;
+    color: white;
+    border-radius: 6px;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+.letter{
+    margin: 30px;
+}
+
+.lvimg{
+    background-color: rgb(236, 2, 2);
+    padding: 6px;
+    border-radius:10px;
+}
+
+.sectow{
+    background-color: rgba(137, 43, 226, 0.404);
+    text-align: center;
+}
+
+.orfav{
+    margin-top: 0px;
+    background-color: rgba(0, 0, 178, 0.718);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+     text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+.music{
+    margin: 30px;
+    background-color: rgba(0, 102, 255, 0.826);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.musictext{
+    text-decoration: none;
+    font-size: 2em;
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 197, 0.795);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+.evenimg{
+    height: 200px;
+    
 }
